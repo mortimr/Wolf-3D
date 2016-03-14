@@ -1,6 +1,6 @@
 # Wolf 3D
 
-Made with LibLapin (from Jason Brillante) (Updated to version 1.7, some mouse bugs can occur).
+Made with LibLapin (from Jason Brillante) (Updated to version 1.7, some mouse bugs can occur).\n
 Screenshots available !
 
 ## Usage
