@@ -6,6 +6,8 @@ Made with LibLapin (from Jason Brillante) (Updated to version 1.7, some mouse bu
 
 Screenshots available !
 
+![Alt Text](./.wolf.gif)
+
 ## Usage
 
 ```
